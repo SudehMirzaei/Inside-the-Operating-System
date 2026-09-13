@@ -16,7 +16,7 @@ The content is organized progressively—starting with foundational concepts and
 
 ### OS Fundamentals
 - [Introduction](docs/OS-Fundamentals/Introduction.md)
-- [What is an Operating System](docs/OS-Fundamentals/What-is-an-Operating-System.md)
+- [What is an Operating System](docs/OS-Fundamentals/what-is-an-Operating-System.md)
 - [OS Goals and Responsibilities](docs/OS-Fundamentals/OS-Goals-and-Responsibilities.md)
 - [OS Architecture](docs/OS-Fundamentals/OS-Architecture.md)
 - [Kernel and User Space](docs/OS-Fundamentals/Kernel-and-User-Space.md)
